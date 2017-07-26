@@ -22,3 +22,6 @@ erl_crash.dump
 relx
 _rel
 deps.plt
+VERSION
+_build
+*failures
