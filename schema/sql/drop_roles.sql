@@ -1,2 +1,0 @@
-DROP ROLE IF EXISTS bifrost;
-DROP ROLE IF EXISTS bifrost_ro;
